@@ -1,83 +1,35 @@
 City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 3,Cape Town,ZA,58.12,clear sky,-33.9258,18.4232,Southern Sun Waterfront Cape Town
-4,Yellowknife,CA,59.52,few clouds,62.456,-114.3525,The Explorer Hotel
-6,Barrow,US,55.42,clear sky,71.2906,-156.7887,King Eider Inn
-20,Hobart,AU,56.01,broken clouds,-42.8794,147.3294,Mantra on Collins Hobart
-31,Castro,BR,52.2,overcast clouds,-24.7911,-50.0119,CHACARA BAILLY
-41,Port Elizabeth,ZA,50.29,scattered clouds,-33.918,25.5701,39 On Nile Guest House
-65,Skelleftea,SE,55.76,broken clouds,64.7507,20.9528,Quality Hotel Skellefteå Stadshotell
 79,New Norfolk,AU,55.65,scattered clouds,-42.7826,147.0587,The Shingles Riverside Cottages
-90,Port Hardy,CA,53.78,scattered clouds,50.6996,-127.4199,Airport Inn
-91,Saldanha,ZA,51.85,clear sky,-33.0117,17.9442,Blue Bay Lodge
-95,Torbay,CA,57.97,overcast clouds,47.6666,-52.7314,Gallows Cove
 100,Hermanus,ZA,57.9,clear sky,-34.4187,19.2345,Misty Waves Boutique Hotel
-107,Tuktoyaktuk,CA,51.8,broken clouds,69.4541,-133.0374,End of The Road Ltd.
-111,Cidreira,BR,57.51,scattered clouds,-30.1811,-50.2056,Hotel Castelo
-120,Mount Gambier,AU,57.11,overcast clouds,-37.8333,140.7667,Commodore on the Park
 128,Prince Rupert,CA,53.69,clear sky,54.3161,-130.3201,Crest Hotel
 130,Bulaevo,KZ,56.61,scattered clouds,54.9056,70.4439,"Игровой клуб ""ДОМ ИГР Z"""
 134,Raudeberg,NO,51.19,overcast clouds,61.9875,5.1352,Nordre Silda.
-141,Magadan,RU,58.68,broken clouds,59.5667,150.8,Magadan hotel
-146,La Ronge,CA,57.45,broken clouds,55.1001,-105.2842,Northland Motor Hotel
-149,Flinders,AU,58.8,overcast clouds,-34.5833,150.8552,Shellharbour Resort & Conference Centre
 171,Yulara,AU,55.24,broken clouds,-25.2406,130.9889,Desert Gardens Hotel - Ayers Rock Resort
-172,Port Alfred,ZA,56.08,clear sky,-33.5906,26.891,The Halyards Hotel
-181,Leh,IN,53.01,broken clouds,34.1667,77.5833,Hotel Ladakh Greens
-182,Livingstone,ZM,51.26,clear sky,-17.8419,25.8543,Gloria's Bed and Breakfast
 184,Bonnyville,CA,57.0,broken clouds,54.2668,-110.735,Best Western Bonnyville Inn & Suites
-186,East London,ZA,56.34,clear sky,-33.0153,27.9116,Tu Casa
 193,Fortuna,US,56.93,overcast clouds,40.5982,-124.1573,Super 8 by Wyndham Fortuna
-196,Chapais,CA,53.38,overcast clouds,49.7834,-74.8492,Hôtel Opémiska
-197,Imbituba,BR,58.89,overcast clouds,-28.24,-48.6703,Praia Hotel Imbituba
 201,Marialva,BR,59.63,overcast clouds,-23.485,-51.7917,Hotel Vinhedo
 202,Sioux Lookout,CA,52.18,overcast clouds,50.1001,-91.917,Knobby's Fly-In Camps
 208,Usinsk,RU,56.52,overcast clouds,65.9939,57.5281,Dobro Pozhalovaty
 223,Nadym,RU,50.34,overcast clouds,65.5333,72.5167,Apartment on Zvereva
 240,Halifax,CA,57.49,clear sky,44.6453,-63.5724,Hotel Halifax
-252,Sistranda,NO,52.9,overcast clouds,63.7256,8.834,Hotell Frøya
 260,Azuaga,ES,52.97,overcast clouds,38.2667,-5.6833,Casa Rural La Hoya
-263,Tupik,RU,57.72,light rain,54.4253,119.9327,Guest House Orkhideya
-265,Port-Cartier,CA,53.82,overcast clouds,50.0334,-66.8654,Le Q'Artier
 277,Codrington,AU,54.66,broken clouds,-38.2667,141.9667,Codrington Gardens Bed And Breakfast
-280,Boden,SE,55.4,scattered clouds,65.8252,21.6886,Quality Hotel Bodensia
 288,Thompson,CA,53.76,few clouds,55.7435,-97.8558,Burntwood Hotel
-292,Bridlington,GB,54.28,overcast clouds,54.0831,-0.1919,Expanse Bridlington Seafront Hotel
-322,Lubango,AO,52.72,few clouds,-14.9172,13.4925,Hotel Serra da Chela
 337,Muravlenko,RU,50.02,overcast clouds,63.7898,74.523,Hostel Rus Muravlenko
-351,Nakambala,ZM,56.61,clear sky,-15.8324,27.7799,Staff Area
-363,Ullapool,GB,53.35,overcast clouds,57.8987,-5.1604,Argyll Hotel
-369,Margate,GB,56.21,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
 370,Oxbow,CA,57.15,scattered clouds,49.2333,-102.1676,Bow Manor Motor Hotel
-371,Serov,RU,59.76,overcast clouds,59.6033,60.5787,Five Stars Hotel
-372,Sundsvall,SE,55.96,overcast clouds,62.3913,17.3063,Clarion Collection Hotel Grand Sundsvall
 380,Sitka,US,52.66,overcast clouds,57.0531,-135.33,Westmark Sitka
 401,Eureka,US,57.2,clear sky,40.8021,-124.1637,Eureka Inn Trademark By Wyndham
-407,Coquimbo,CL,53.33,broken clouds,-29.9533,-71.3436,Punto de encuentro
-414,Alice Springs,AU,56.75,overcast clouds,-23.7,133.8833,Desert Palms Alice Springs
 417,Fort Frances,CA,56.16,overcast clouds,48.5999,-93.4003,LA PLACE RENDEZ-VOUS
 423,Goba,ET,57.25,overcast clouds,7.0167,39.9833,Goba Wabe Shebelle Hotel
-443,Kristiansund,NO,51.85,broken clouds,63.1115,7.732,Thon Hotels Storgata
-444,Ketchikan,US,55.87,broken clouds,55.3422,-131.6461,Snows Cove Lodge
 452,Kruisfontein,ZA,50.74,scattered clouds,-34.0033,24.7314,Oyster Bay House Rental
-456,Yuzhno-Kurilsk,RU,54.9,broken clouds,44.0306,145.8556,Guesthouse Berloga
 459,Bereda,ES,55.15,light rain,43.2686,-7.5406,Pazo de Verdes
-463,Ulladulla,AU,58.77,overcast clouds,-35.35,150.4667,Sandpiper Motel
 468,Boddam,GB,51.39,few clouds,57.4667,-1.7833,Palace Hotel
 469,Port Lincoln,AU,55.47,broken clouds,-34.7333,135.8667,Port Lincoln Hotel
-470,Ambositra,MG,53.67,few clouds,-20.5167,47.25,Grand Hôtel
-485,Kudymkar,RU,59.5,overcast clouds,59.0173,54.656,Хостел #1 Кудымкар
-490,Newport,GB,56.08,overcast clouds,51.5877,-2.9984,ibis budget Newport
 492,Atherton,GB,55.22,overcast clouds,53.5237,-2.4935,The Lion Inn
 498,Maarianhamina,AX,58.86,clear sky,60.0973,19.9348,Park Alandia Hotel
 513,Warrnambool,AU,56.8,overcast clouds,-38.3833,142.4833,Lady Bay Resort
 514,Yar-Sale,RU,52.36,overcast clouds,66.8333,70.8333,Yalemd
-522,Plouzane,FR,55.45,mist,48.3833,-4.6167,Carrefour Voyages Plouzané
 551,Novyy Urengoy,RU,50.14,overcast clouds,66.0833,76.6333,Apartments Moy Dom na Gubkina
-568,Burnie,AU,54.93,clear sky,-41.0667,145.9167,Beachfront Voyager Motor Inn
 590,Tromso,NO,50.65,light rain,69.6496,18.957,"Radisson Blu Hotel, Tromsø"
-610,Flin Flon,CA,51.22,few clouds,54.7682,-101.865,Victoria Inn Flin Flon
-623,Valparaiso,CL,52.48,clear sky,-33.0393,-71.6273,Hotel Ultramar
-635,Sept-Iles,CA,54.12,broken clouds,50.2001,-66.3821,Comfort Inn
-643,Hibbing,US,56.55,scattered clouds,47.4272,-92.9377,Mitchell-Tappan House
-668,Thunder Bay,CA,58.98,broken clouds,48.4001,-89.3168,Victoria Inn Hotel and Convention Centre
 682,Bismarck,US,58.87,clear sky,46.8083,-100.7837,Ramkota Hotel & Conference Center
